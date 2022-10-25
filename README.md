@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# HELLO MICROVERSE
 
->HELLO MICROVERSE
+> This is a microverse learning project emphasizing the importance of linters, github flow, and work documentation.
 
 
 ## Built With
